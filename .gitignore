@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Some folders and files
+.revanced_res
+
 # C extensions
 *.so
 
